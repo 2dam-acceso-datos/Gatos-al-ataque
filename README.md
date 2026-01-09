@@ -30,7 +30,7 @@
 
 ## Descripcion
 
-Batalla de Gatos es un juego competitivo en tiempo real donde dos jugadores se enfrentan gestionando recursos (dinero, energia, pienso) para mejorar sus estadisticas y atacar a su oponente hasta reducir su vida a cero.
+Batalla de Gatos es un juego competitivo en tiempo real donde dos jugadores se enfrentan gestionando recursos (dinero, energia, pienso, ataques) para mejorar sus estadisticas y atacar a su oponente hasta reducir su vida a cero.
 
 El juego combina mecanicas de clicker games con estrategia en tiempo real, permitiendo a los jugadores:
 
